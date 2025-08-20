@@ -79,3 +79,5 @@ Follow these instructions to set up and run the project on your local machine.
 ## 🌐 Deployment
 
 This application is designed to be deployed on **Streamlit Community Cloud**. It will prompt users to enter their own API key in the sidebar, making it easily shareable.
+
+Live URL: https://lucid-code-b5iz9dhnrjzmkxzhhsp7jv.streamlit.app/
